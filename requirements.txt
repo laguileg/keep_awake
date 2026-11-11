@@ -1,0 +1,3 @@
+# Sin dependencias externas: keep_awake.py usa solo la biblioteca estándar.
+# Solo para crear el .exe:
+# pyinstaller>=6.0
